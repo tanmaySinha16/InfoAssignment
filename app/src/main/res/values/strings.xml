@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InfoAssignment</string>
+    <string name="create_acct">Please enter a valid email and password of 6 characters</string>
+</resources>
